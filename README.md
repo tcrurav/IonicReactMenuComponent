@@ -2,7 +2,7 @@
 
 It's just that...
 
-![alt text](https://github.com/tcrurav/IonicReactTransition/blob/master/screenshots/screenshot-01.gif)
+![alt text](https://github.com/tcrurav/IonicReactMenuComponent/blob/master/screenshots/screenshot-01.gif)
 
 ### Prerequisites
 
